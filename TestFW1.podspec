@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   spec.name         = "TestFW1"
-  spec.version      = "0.0.1.0"
+  spec.version      = "0.0.1.1"
   spec.summary      = "A short description of TestFW1."
 
   spec.description  = "A short description of TestFW1. Test demo."
