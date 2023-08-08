@@ -46,7 +46,7 @@ Pod::Spec.new do |spec|
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   # spec.source_files  = "TestFW1", "TestFW1/**/*.{h,m,swift}"
-  spec.source_files  = "TestFW1", "TestFW1/*.{h,m,swift}"
+  spec.source_files  = "TestFW1", "TestFW1/**/*.{h,m,swift}"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
