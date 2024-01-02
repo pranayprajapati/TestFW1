@@ -6,7 +6,7 @@ target 'TestTW1' do
   use_frameworks!
 
   # Pods for TestTW1
-  pod 'Socket.IO-Client-Swift' #, '~> 15.2.0'
+  # pod 'Socket.IO-Client-Swift' #, '~> 15.2.0'
   # pod 'Eddid-Socket.IO-Client-Swift'
   pod 'ProgressHUD'
 
