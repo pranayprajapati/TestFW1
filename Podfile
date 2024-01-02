@@ -9,6 +9,7 @@ target 'TestTW1' do
   # pod 'Socket.IO-Client-Swift' #, '~> 15.2.0'
   # pod 'Eddid-Socket.IO-Client-Swift'
   pod 'ProgressHUD'
+  pod 'SideMenu'
 
   target 'TestTW1Tests' do
     # Pods for testing
